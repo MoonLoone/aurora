@@ -18,6 +18,10 @@ Page {
                     text: "Task2"
                     onClicked: pageStack.push(Qt.resolvedUrl("Task2.qml"))
                 }
+                Button {
+                    text: "Task4"
+                    onClicked: pageStack.push(Qt.resolvedUrl("Task4.qml"))
+                }
                 }
             ]
         }
