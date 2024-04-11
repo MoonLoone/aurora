@@ -11,7 +11,11 @@
 <context>
     <name>Task2</name>
     <message>
-        <source>Task2</source>
+        <source>Task1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Привет, мир! :)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -26,6 +30,27 @@
     <name>Task4</name>
     <message>
         <source>Task4</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Task5</name>
+    <message>
+        <source>Task4</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Task6</name>
+    <message>
+        <source>Task6</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Task7</name>
+    <message>
+        <source>Task7</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

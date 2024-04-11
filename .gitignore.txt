@@ -1,0 +1,3 @@
+build-ru.auroraos.lab1-AuroraOS_5_0_1_27_base_aarch64_in_Aurora_Build_Engine-Debug
+build-ru.auroraos.lab1-AuroraOS_5_0_1_27_base_armv7hl_in_Aurora_Build_Engine-Debug
+build-ru.auroraos.lab1-AuroraOS_5_0_1_27_base_x86_64_in_Aurora_Build_Engine-Debug
